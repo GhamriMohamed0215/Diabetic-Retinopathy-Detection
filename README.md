@@ -56,7 +56,3 @@ An advanced CNN architecture that achieved the best results:
 | 5 Classes    | DenseNet-121  | High (see notebook) |
 
 Performance comparison, training curves, and confusion matrices are available in the notebook.
-
-## 📂 Repository Contents
-
-- [`final_classification_densenet_121_5_classes.ipynb`](./final_classification_densenet_121_5_classes.ipynb) — Full training and evaluation code
